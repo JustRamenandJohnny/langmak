@@ -1,0 +1,17 @@
+# IDE
+.idea
+.vscode
+
+# Vendoring
+vendor
+
+# tempfiles
+*~
+.cache
+
+temp
+tmp
+
+# coverage
+coverage.txt
+coverage.html

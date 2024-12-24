@@ -1,0 +1,19 @@
+
+x = 25;
+y = 5;
+x = (25 + y) * 2 + x;
+print(x);
+
+/* test moment */
+
+while (x < 100){ x = x + 1;}
+print (y);
+if (x < y) {
+    y = y - x;
+} else {
+    x = y;
+}
+print(x);
+print(y);
+
+
